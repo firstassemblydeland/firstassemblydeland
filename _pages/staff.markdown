@@ -51,7 +51,14 @@ permalink: /about-us/people/
 
         <div>After attending First Assembly as a youth, Mykaela went to Southwestern University in Texas and obtained a B.A. in Music and The Arts. She returned to DeLand and serves as First Assemblies Music and Arts Director.</div>
     </div>
+    
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+       <img class="image-responsive" src="/static/scaled_chris_white2021.jpg">
+       <h2>Pastor Chris White</h2>
+       <div class="title">Itinerant Preacher & Bridge Builder</div>
 
+       <div>Pastor Chris is an evangelist serving with the preaching team at First Assembly Deland. Called to build bridges and point others to Christ.  He is married for 33 years with 2 adult children that Love the Lord.</div>
+    </div>
 
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/scaled_susan_john_anderson2019.jpg">
@@ -89,4 +96,4 @@ permalink: /about-us/people/
         <div class="title">Elder</div>
     </div>
 
-</div>
+
