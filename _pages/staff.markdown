@@ -24,17 +24,8 @@ permalink: /about-us/people/
         <div>Mike Carroll is a graduate of Stetson University and he and his wife of 41 years, Donna, have served as Associate Pastors since 1996.</div>
         <div><a href="/about-us/people/mike-and-donna-carroll/">Read more &raquo;</a></div>
     </div>
-
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-        <img class="image-responsive" src="/static/scaled_nathan_buker2019.jpg">
-        <h2>Nathan Buker</h2>
-        <div class="title">Youth Pastor</div>
-        <div class="phone"><a href="tel:3864796425">(386) 479-6425</a></div>
-
-        Pastor Nate has been involved with student ministry in DeLand area for over 16 years. Along with his wife Dawn of 23 years they have enjoyed supporting the family unit as they invest teens.
-        <div><a href="/about-us/people/nathan-and-dawn-buker/">Read more &raquo;</a></div>
-    </div>
-
+  
+    <!-- Dan and Joy go here -->
 
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/scaled_Pastor_Dawn_09.jpg">
@@ -62,20 +53,12 @@ permalink: /about-us/people/
 
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/scaled_susan_john_anderson2019.jpg">
-        <h2>Susan Anderson</h2>
-        <div class="title">Volunteer Coordinator</div>
-    </div>
-
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-        <img class="image-responsive" src="/static/scaled_susan_john_anderson2019.jpg">
+      
         <h2>John Anderson</h2>
         <div class="title">Facilities Manager</div>
-    </div>
-
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-        <img class="image-responsive" src="/static/scaled_dawn_buker.jpg">
-        <h2>Dawn Buker</h2>
-        <div class="title">Nursery Coordinator</div>
+      
+        <h2>Susan Anderson</h2>
+        <div class="title">Volunteer Coordinator</div>
     </div>
 
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
