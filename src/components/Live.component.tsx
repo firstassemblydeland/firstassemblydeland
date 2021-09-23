@@ -26,7 +26,7 @@ export class Live extends React.Component<{}, LiveState> {
         const minute = `${now.getMinutes()}`.padStart(2, "0");
         const time = params.get("time") || `${hour}:${minute}`;
         if (day === 4 && time >= "18:00" && time <= "19:30") {
-            return LiveService.MegaMen;
+            // return LiveService.MegaMen;
         } else if (day === 0 && time >= "10:00" && time <= "11:15") {
             return LiveService.SundayService;
         } else if (day === 3 && time >= "18:30" && time <= "20:00") {
