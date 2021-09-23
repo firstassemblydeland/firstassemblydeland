@@ -25,7 +25,14 @@ permalink: /about-us/people/
         <div><a href="/about-us/people/mike-and-donna-carroll/">Read more &raquo;</a></div>
     </div>
   
-    <!-- Dan and Joy go here -->
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <img class="image-responsive" src="/static/scaled_joy_and_daniel.jpg">
+        <h2>Daniel & Joy (Yoi) Gomez</h2>
+        <div class="title">Directors of Youth Ministries</div>
+        
+        <div>Yoileana (Joy) lives in Deland with her husband Daniel and their puppy "Sleepy", both have spent more than 8 years leading youth groups and collaborating in evangelistic events. After God showed her First Assembly of God in Deland in a dream, both Danny and Joy, embarked a journey of faith that led them to relocating in Deland within 9 months.</div>
+        <div><a href="/about-us/people/daniel-and-joy-gomez/">Read more &raquo;</a></div>
+    </div>
 
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/scaled_Pastor_Dawn_09.jpg">
