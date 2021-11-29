@@ -53,11 +53,6 @@ permalink: /
         </div>
     </div>
 </div>
-<div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-        <a href="https://build-a-shoebox.samaritanspurse.org/view/7b809348-f873-4e10-8518-bcf36fa4ac34" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/6jgrxbmxcfz3cg6/operation-christmas-child.jpg?dl=0" /></a>
-    </div>
-</div>
 
 ## Services and schedule
 
