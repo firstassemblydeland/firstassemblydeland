@@ -8,6 +8,14 @@ permalink: /
 
 <div class="component-live"></div>
 
+<div class="schedule row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div>
+            Have a prayer request? Send it to <a href="emailto:prayer@firstassemblydeland.com">prayer@firstassemblydeland.com</a>
+        </div>
+    </div>
+</div>
+
 <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 promotion">
         <a href="https://dl.dropboxusercontent.com/s/rtcrs9zgbtjlmu4/promo1.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/rtcrs9zgbtjlmu4/promo1.jpg?dl=0" /></a>
@@ -44,13 +52,6 @@ permalink: /
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 promotion">
         <a href="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo12.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo12.jpg?dl=0" /></a>
-    </div>
-</div>
-<div class="schedule row">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-        <div>
-            Have a prayer request? Send it to <a href="emailto:prayer@firstassemblydeland.com">prayer@firstassemblydeland.com</a>
-        </div>
     </div>
 </div>
 
