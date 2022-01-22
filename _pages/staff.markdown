@@ -75,7 +75,7 @@ permalink: /about-us/people/
     </div>
 
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-        <img class="image-responsive" src="/static/placeholder.jpg">
+        <img class="image-responsive" src="/static/scaled_lee_pait_2022.jpg">
         <h2>Lee Pait</h2>
         <div class="title">Elder</div>
     </div>
