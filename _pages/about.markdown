@@ -21,7 +21,7 @@ Each of our staff has experience in the marketplace before coming to First Assem
             <li><strong><a href="/about-us/history-vision/">History & Vision</a></strong></li>
             <li><strong><a href="/about-us/more-about-jesus/">More About Jesus</a></strong></li>
             <li><strong><a href="/about-us/ministries/">Ministries</a></strong></li>
-            <li><strong><a href="/about-us/people/">Staff and Eldership</a></strong></li>
+            <li><strong><a href="/about-us/people/">Staff and Church Board</a></strong></li>
         </ul>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
