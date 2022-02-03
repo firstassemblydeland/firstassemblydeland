@@ -71,19 +71,19 @@ permalink: /about-us/people/
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/placeholder.jpg">
         <h2>Ralph Youngquist</h2>
-        <div class="title">Elder</div>
+        <div class="title">Church Board</div>
     </div>
 
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/scaled_lee_pait_2022.jpg">
         <h2>Lee Pait</h2>
-        <div class="title">Elder</div>
+        <div class="title">Church Board</div>
     </div>
 
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/scaled_patt_lott2019.jpg">
         <h2>Patt Lott</h2>
-        <div class="title">Elder</div>
+        <div class="title">Church Board</div>
     </div>
 
 
