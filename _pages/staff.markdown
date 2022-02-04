@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Staff and Eldership
+title: Staff and Church Board
 permalink: /about-us/people/
 ---
 
