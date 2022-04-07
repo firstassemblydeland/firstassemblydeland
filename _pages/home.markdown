@@ -54,13 +54,13 @@ permalink: /
         <a href="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo12.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo12.jpg?dl=0" /></a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 promotion">
-        <a href="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo13.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/mvxndvitugq0xel/promo13.jpg?dl=0" /></a>
+        <a href="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo13.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/mvxndvitugq0xel/promo13.jpeg?dl=0" /></a>
     </div>  
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 promotion">
-        <a href="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo14.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo14.jpg?dl=0" /></a>
+        <a href="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo14.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/w4yqqj3d0vmm3gw/promo14.jpg?dl=0" /></a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 promotion">
-        <a href="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo15.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo15.jpg?dl=0" /></a>
+        <a href="https://dl.dropboxusercontent.com/s/qv47p5byc7lp886/promo15.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/xnrnj3fekrj7e8i/promo15.jpg?dl=0" /></a>
     </div>    
 </div>
 
