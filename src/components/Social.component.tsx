@@ -7,17 +7,7 @@ interface SocialState {
 const SocialLoaded = () => (
     <React.Fragment>
         <div className="row">
-            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                <a
-                    className="twitter-timeline"
-                    data-height="400"
-                    href="https://twitter.com/firstdeland?ref_src=twsrc%5Etfw"
-                >
-                    Tweets by firstdeland
-                </a>
-            </div>
-        
-            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                 <div
                     className="fb-page"
                     data-href="https://www.facebook.com/firstassemblydeland"
@@ -46,12 +36,7 @@ const SocialLoaded = () => (
 
 const SocialNotLoaded = () => (
     <div className="social row">
-        <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-            <div>
-                <a href="https://twitter.com/firstdeland" target="_blank"><h3><i className="icon-twitter"></i> Twitter</h3></a>
-            </div>
-        </div>
-        <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <div>
                 <a href="https://www.facebook.com/firstassemblydeland" target="_blank"><h3><i className="icon-facebook2"></i> Facebook</h3></a>
             </div>
