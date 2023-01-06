@@ -42,7 +42,7 @@ permalink: /
         <a href="https://dl.dropboxusercontent.com/s/k3zfuavy7apdqfs/promo8.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/k3zfuavy7apdqfs/promo8.jpg?dl=0" /></a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 promotion">
-        <a href="https://dl.dropboxusercontent.com/s/aj0nfw5vk00sckp/promo9.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/aj0nfw5vk00sckp/promo9.jpg?dl=0" /></a>
+        <a href="https://dl.dropboxusercontent.com/s/x088qg9rsgu1515/promo9.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/x088qg9rsgu1515/promo9.jpg?dl=0" /></a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 promotion">
         <a href="https://dl.dropboxusercontent.com/s/vs0xxhzz4nvq0y8/promo10.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/vs0xxhzz4nvq0y8/promo10.jpg?dl=0" /></a>
