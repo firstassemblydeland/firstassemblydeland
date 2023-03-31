@@ -36,7 +36,7 @@ God has given us a vision to raise up a faithful group of men who will touch and
 
 ## Wednesday Night Worship and Intercession
 
-[Wednesday Night Bible Study on Groups](https://firstdeland.churchcenter.com/groups/community-groups/wednesday-night-bible-study-good-or-god)
+[Wednesday Night Worship and Intercession on Groups](https://firstdeland.churchcenter.com/groups/community-groups/wednesday-night-bible-study-good-or-god)
 
 ## Outreach
 
