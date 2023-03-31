@@ -34,7 +34,7 @@ The First Ladies, our women’s ministry at First Assembly DeLand, is a vibrant 
 
 God has given us a vision to raise up a faithful group of men who will touch and transform their homes, their neighborhoods, their workplace, their church and their city. Will you be one of those men? Here’s what you’ll find at M.E.G.A Men: men who face the same battles you do, fellowship, accountability and a band of brothers you can count on.
 
-## Wednesday Night Bible Study
+## Wednesday Night Worship and Intercession
 
 [Wednesday Night Bible Study on Groups](https://firstdeland.churchcenter.com/groups/community-groups/wednesday-night-bible-study-good-or-god)
 
@@ -56,7 +56,7 @@ Each year we have a week long mission to reach every house in DeLand with the Go
 
 ### Food Pantry
 
-We maintain a food pantry to provided bagged groceries to those in need on a walk-in basis Tuesday from 9am to noon.
+We maintain a food pantry to provided bagged groceries to those in need on a walk-in basis Tuesday from 9am to 10am.
 
 ## Worship and Arts
 
