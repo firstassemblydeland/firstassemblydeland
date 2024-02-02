@@ -6,7 +6,7 @@ permalink: /about-us/people/
 
 <div class="staff row">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-        <img class="image-responsive" src="/static/scaled_mike_modica_rene2024.jpg">
+        <img class="image-responsive" src="/static/pm_rene2024.jpg">
         <h2>Michael Modica</h2>
         <div class="title">Lead Pastor</div>
         <div class="phone"><a href="tel:3868012001">(386) 801-2001</a></div>
