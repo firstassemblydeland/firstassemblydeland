@@ -56,7 +56,7 @@ permalink: /about-us/people/
         <div class="title">Music and Arts Director</div>
         <div class="phone"><a href="tel:3867486902">(386) 748-6902</a></div>
 
-        <div>After attending First Assembly as a youth, Mykaela went to Southwestern University in Texas and obtained a B.A. in Music and The Arts. She returned to DeLand and serves as First Assemblies Music and Arts Director.</div>
+        <div>After attending First Assembly as a youth, Mykaela went to Southwestern University in Texas and obtained a B.A. in Music and the Arts. She returned to DeLand and serves as First Assembly's Music and Arts Director. She married her best friend Matt, another long time member of First Assembly, and has four incredible children. Motherhood has taught her so much about patience, sacrifice, and the importance of nurturing the next generation. Matt and Mykaela lead not only the adult worship teams, but coordinate worship teams for the next generations as well.</div>
     </div>
     
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
