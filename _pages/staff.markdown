@@ -24,7 +24,7 @@ permalink: /about-us/people/
         <div><a href="/about-us/people/sam-neal/">Read more &raquo;</a></div>
     </div>
 
-    div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/scaled_joy_and_daniel.jpg">
         <h2>Daniel & Joy (Yoi) Gomez</h2>
         <div class="title">Directors of Youth Ministries</div>
