@@ -16,6 +16,15 @@ permalink: /about-us/people/
     </div>
   
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <img class="image-responsive" src="/static/scaled_pastor_sam.jpg">
+        <h2>Pastor Sam Neal</h2>
+        <div class="title">Generations Pastor</div>
+        
+        <div>Sam Neal joins the First Assembly staff as the Generations pastor.  He is a graduate of Southeastern University of the Assemblies of God with a Pastoral Ministries Leadership degree. Before he graduated he met the love of his life, Allison.  They have been married for 20 years with 4 amazing sons, Jaxon, Liam, Deacon, and Cooper.</div>
+        <div><a href="/about-us/people/sam-neal/">Read more &raquo;</a></div>
+    </div>
+
+    div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/scaled_joy_and_daniel.jpg">
         <h2>Daniel & Joy (Yoi) Gomez</h2>
         <div class="title">Directors of Youth Ministries</div>
