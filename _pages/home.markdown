@@ -17,12 +17,6 @@ permalink: /
 </div>
 
 <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2 promotion">
-        <a href="/alpha/"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/tpuxdn5jlrb34t9y8ayy0/alpha.jpg?rlkey=ue712zs8uv2t3p83kzg614ujm&st=j379675n&dl=0" /></a>
-    </div>
-</div>
-
-<div class="row">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 promotion">
         <a href="https://dl.dropboxusercontent.com/s/4p2yzzl78reafjh/promo1.jpg?dl=0" target="_blank"><img class="image-responsive" src="https://dl.dropboxusercontent.com/s/4p2yzzl78reafjh/promo1.jpg?dl=0" /></a>
     </div>
