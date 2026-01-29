@@ -51,7 +51,7 @@ export class Social extends React.Component<{}, SocialState> {
     }
 
     loadScript(url: string) {
-        return new Promise(resolve => {
+        return new Promise<void>(resolve => {
             const script = document.createElement("script");
             script.src = url;
             script.onload = () => resolve();

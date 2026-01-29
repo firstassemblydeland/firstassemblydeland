@@ -24,7 +24,17 @@ permalink: /about-us/people/
         <div><a href="/about-us/people/sam-neal/">Read more &raquo;</a></div>
     </div>
 
-    <!-- TODO: Add Dylan -->
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <img class="image-responsive" src="/static/micah.jpg">
+        <h2>Micah Mintor</h2>
+        <div class="title">Associate Pastor</div>
+    </div>
+
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <img class="image-responsive" src="/static/dylan.jpg">
+        <h2>Dylan Lenahan</h2>
+        <div class="title">Youth Pastor</div>
+    </div>
 
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <img class="image-responsive" src="/static/scaled_joy_and_daniel.jpg">
